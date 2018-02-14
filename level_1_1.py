@@ -1,4 +1,3 @@
-
 def answer(n): 
     prime = [2]
     p_str = "2"
